@@ -1,11 +1,7 @@
 Hello there! I'm Praveen, a graduate with a passion for programming. I recently completed my training in Full Stack Development and I'm excited to transition my skills into a career as a software developer. This repository serves as my portfolio, showcasing my projects and skills in the field of web development.
 
 ## Skills
-- Java Enterprise Edition
-- JDBC
-- Hibernate
-- Spring IOC
-- Spring MVC
+- Java
 - Spring Boot
 
 
@@ -19,7 +15,11 @@ Hello there! I'm Praveen, a graduate with a passion for programming. I recently 
 - Oracle SQL
 - Mongo DB
 
-## Projects
+## deployed live Projects
+Travels Project https://tours-praveencm06.vercel.app/#
+Real Estate Project https://nextor-praveencm.vercel.app/
+
+## projects worked on
 ### Project 1: 
 Zeflix -using ReactJS framework
 Personal project.
