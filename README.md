@@ -3,22 +3,20 @@ Hello there! I'm Praveen, a graduate with a passion for programming. I recently 
 ## Skills
 - Java
 - Spring Boot
-
-
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript
 - ReactJS
-
-
 - Oracle SQL
 - Mongo DB
 
 ## deployed live Projects
-Travels Project https://tours-praveencm06.vercel.app/#
+Travels Project => https://tours-praveencm06.vercel.app/#
 
-Real Estate Project https://nextor-praveencm.vercel.app/
+Real Estate Project => https://nextor-praveencm.vercel.app/
+
+QR Code Generator => https://qr-code-generator-praveencm06.vercel.app/
 
 ## projects worked on
 ### Project 1: 
