@@ -11,7 +11,7 @@ Hello there! I'm Praveen, a graduate with a passion for programming. I recently 
 - Oracle SQL
 - Mongo DB
 
-## deployed live Projects
+# deployed live Projects
 Travels Project => https://tours-praveencm06.vercel.app/#
 
 Real Estate Project => https://nextor-praveencm.vercel.app/
