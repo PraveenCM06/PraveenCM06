@@ -18,6 +18,8 @@ Real Estate Project => https://nextor-praveencm.vercel.app/
 
 QR Code Generator => https://qr-code-generator-praveencm06.vercel.app/
 
+Simple and Basic Example for React Redux and redux toolkit => https://react-redux-praveencm06.vercel.app/
+
 ## projects worked on
 ### Project 1: 
 Zeflix -using ReactJS framework
