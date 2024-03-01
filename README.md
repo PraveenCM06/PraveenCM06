@@ -1,5 +1,7 @@
 Hello there! I'm Praveen, a graduate with a passion for programming. I recently completed my training in Full Stack Development and I'm excited to transition my skills into a career as a software developer. This repository serves as my portfolio, showcasing my projects and skills in the field of web development.
 
+![gitartwork](gitartwork.svg)
+
 ## Skills
 - Java
 - Spring Boot
