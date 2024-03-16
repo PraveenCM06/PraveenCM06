@@ -15,8 +15,8 @@
 #### Frontend/UI:
 
 <div>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="29">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30">
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="28">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="32">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30">
 <img src="https://img.icons8.com/color/452/bootstrap.png" height="30">
