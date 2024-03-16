@@ -6,8 +6,14 @@
 
 ### Languages: 
 <div>
-  <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
+  <div>
+    <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
+    <p>Javascript</p>
+  </div>
+  <div>
   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" height="35">
+    <p>Java</p>
+  </div>
 </div>
 
 ### Web Development (Full-stack):
