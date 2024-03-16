@@ -56,6 +56,7 @@ Simple and Basic Example for React Redux and redux toolkit => https://react-redu
     &nbsp;&nbsp;
     <a href="mailto:praveencm427@gmail.com"><img height="30" src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg"></a>
     &nbsp;&nbsp;
+    <a href="https://wa.me/918147818112?text=Hello,%20this is%20[YOUR_NAME]%20from%20[COMPANY_NAME].%20I'm%20interested%20in%20your%20profile%20for%20an%20open%20job%20position%20at%20our%20organization"><img src="https://i.pinimg.com/736x/93/b2/65/93b265c795140247db600ac92e58746a.jpg" height="30"></a>
 </p>
 
 Feel free to reach out to me via email or LinkedIn. I'm open to new opportunities and collaborations.
