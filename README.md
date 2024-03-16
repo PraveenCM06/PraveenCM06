@@ -7,15 +7,7 @@
 ### Languages: 
 <div>
   <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
-  <svg viewBox="0 0 100 100">
-  <style>
-    .java-logo {
-      fill: white;
-    }
-  </style>
-  <path class="java-logo" d="M0,0 L100,0 L100,100 L0,100 Z"/>
-  <path class="java-logo" d="M50,50 L100,0 L0,0 Z"/>
-</svg>
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" height="34">
 </div>
 
 ### Web Development (Full-stack):
