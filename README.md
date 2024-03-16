@@ -7,7 +7,7 @@
 ### Languages: 
 <div>
   <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
-  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" height="34">
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" height="35">
 </div>
 
 ### Web Development (Full-stack):
@@ -48,8 +48,13 @@ QR Code Generator => https://qr-code-generator-praveencm06.vercel.app/
 
 Simple and Basic Example for React Redux and redux toolkit => https://react-redux-praveencm06.vercel.app/
 
-## Contact Information
-- Email: praveencm427@gmail.com
-- LinkedIn: https://www.linkedin.com/in/praveen-mulagundamath-664762aa
+### CONNECT WITH ME ON
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/praveen-mulgundmath-664762aa/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <a href="mailto:praveencm427@gmail.com"><img height="30" src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg"></a>
+    &nbsp;&nbsp;
+</p>
 
 Feel free to reach out to me via email or LinkedIn. I'm open to new opportunities and collaborations.
