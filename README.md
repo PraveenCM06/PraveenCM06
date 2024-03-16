@@ -6,14 +6,8 @@
 
 ### Languages: 
 <div>
-  <div>
-    <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
-    <p>Javascript</p>
-  </div>
-  <div>
+  <img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" height="30">
   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" height="35">
-    <p>Java</p>
-  </div>
 </div>
 
 ### Web Development (Full-stack):
@@ -21,7 +15,7 @@
 #### Frontend/UI:
 
 <div>
-<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="30">
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" height="29">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30">
