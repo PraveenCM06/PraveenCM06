@@ -41,6 +41,8 @@
 
 
 ### deployed live Projects
+MERN- Full Stack Application => https://praveencm06-apex-realtors.onrender.com/
+
 Travels Project => https://tours-praveencm06.vercel.app/#
 
 Real Estate Project => https://nextor-praveencm.vercel.app/
@@ -48,6 +50,7 @@ Real Estate Project => https://nextor-praveencm.vercel.app/
 QR Code Generator => https://qr-code-generator-praveencm06.vercel.app/
 
 Simple and Basic Example for React Redux and redux toolkit => https://react-redux-praveencm06.vercel.app/
+
 
 ### CONNECT WITH ME ON
 
