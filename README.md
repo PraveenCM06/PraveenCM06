@@ -1,6 +1,6 @@
 <h3 align="center">Hello, folks! 👋, I'm </h3>
 
-![gitartwork](gitartwork.svg)
+![gitartwork](gitartwork.svg) </br>
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 ## Skilled in
 
