@@ -1,7 +1,7 @@
 <h3 align="center">Hello, folks! 👋, I'm </h3>
 
 ![gitartwork](gitartwork.svg) </br> </br>
-![](https://komarev.com/ghpvc/?username=your-github-username&blue=green&base=18888200&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-username&blue=green&abbreviated=true)
 ## Skilled in
 
 ### Languages: 
