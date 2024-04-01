@@ -1,7 +1,7 @@
 <h3 align="center">Hello, folks! 👋, I'm </h3>
 
 ![gitartwork](gitartwork.svg) </br> </br>
-![](https://komarev.com/ghpvc/?username=PraveenCM06&blue=green&base=1500&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=PraveenCM06&blue=green&base=1287&abbreviated=true&style=for-the-badge)
 ## Skilled in
 
 ### Languages: 
