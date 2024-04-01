@@ -55,11 +55,11 @@ Simple and Basic Example for React Redux and redux toolkit => https://react-redu
 ### CONNECT WITH ME ON
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/praveen-mulgundmath-664762aa/"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/praveen-mulgundmath-664762aa/" target="_blank"><img height="30" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png"></a>&nbsp;&nbsp;
     &nbsp;&nbsp;
-    <a href="mailto:praveencm427@gmail.com"><img height="30" src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg"></a>
+    <a href="mailto:praveencm427@gmail.com" target="_blank"><img height="30" src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0.jpg"></a>
     &nbsp;&nbsp;
-    <a href="https://wa.me/918147818112?text=Hello,%20this is%20[YOUR_NAME]%20from%20[COMPANY_NAME].%20I'm%20interested%20in%20your%20profile%20for%20an%20open%20job%20position%20at%20our%20organization"><img src="https://i.pinimg.com/736x/93/b2/65/93b265c795140247db600ac92e58746a.jpg" height="30"></a>
+    <a href="https://wa.me/918147818112?text=Hello,%20this is%20[YOUR_NAME]%20from%20[COMPANY_NAME].%20I'm%20interested%20in%20your%20profile%20for%20an%20open%20job%20position%20at%20our%20organization" target="_blank"><img src="https://i.pinimg.com/736x/93/b2/65/93b265c795140247db600ac92e58746a.jpg" height="30"></a>
 </p>
 
 Feel free to reach out to me via email or LinkedIn. I'm open to new opportunities and collaborations.
