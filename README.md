@@ -43,7 +43,7 @@
 ### deployed live Projects
 MERN- Full Stack Application => https://praveencm06-apex-realtors.onrender.com/
 
-Travels Project => https://tours-praveencm06.vercel.app/#
+Travels Project => https://tours-praveencm06.vercel.app/# 
 
 Real Estate Project => https://nextor-praveencm.vercel.app/
 
